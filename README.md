@@ -12,3 +12,5 @@ Also includes chat app for interaction on the go.
 Screenshots of app in screenshot folder
 
 ![Demo App screenshot](screenshots/Screenshot-1.png)
+
+![Demo App screenshot](screenshots/Screenshot-2.png)
