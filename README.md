@@ -10,3 +10,5 @@ if the file is named as an existing file, the content gets updated.
 Also includes chat app for interaction on the go.
 
 Screenshots of app in screenshot folder
+
+![Demo App screenshot](screenshots/Screenshot-1.png)
