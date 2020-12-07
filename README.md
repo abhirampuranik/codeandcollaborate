@@ -21,3 +21,6 @@ Navigate to localhost:8080/Home for homepage
 ![Demo App screenshot](screenshots/Screenshot-1.png)
 
 ![Demo App screenshot](screenshots/Screenshot-2.png)
+
+
+![Demo App screenshot](screenshots/Screenshot-3.png)
