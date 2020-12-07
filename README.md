@@ -11,6 +11,9 @@ If the file is named as an existing file while saving, the content gets updated.
 
 Also includes chat app for interaction on the go.
 
+Requirement:
+MongoDB installed
+
 Screenshots of app in screenshot folder
 
 Navigate to localhost:8080/Home for homepage
